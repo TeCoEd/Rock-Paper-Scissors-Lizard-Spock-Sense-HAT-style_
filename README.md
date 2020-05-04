@@ -1,5 +1,8 @@
 # Rock Paper Scissors Lizard Spock
 # Sense-HAT-style
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O31OGEX)
+
 The classic game of Rock Paper Scissors Lizard Spock adapted for the Sense-HAT
 
 ![](images/rpsls.jpg)
